@@ -1,3 +1,3 @@
 # Data Analysis
 
-Data Analysis learning during an intership at McGill University Health Center(July - September 2022)
+Data Analysis learning during an intership at Gill University Health Center(July, 2022 - September 2024)
